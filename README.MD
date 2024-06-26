@@ -10,6 +10,6 @@ I want to retain the functionality. I also wanted to implement some key middlewa
 
 # TODO
 
-[x] Implement core functionality.
-[ ] Create documentation and examples.
-[ ] Create test cases.
+- [x] Implement core functionality.
+- [ ] Create documentation and examples.
+- [ ] Create test cases.
